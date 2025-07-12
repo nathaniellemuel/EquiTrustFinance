@@ -15,7 +15,7 @@ A website for banking system. This program provides deposit, withdrawal, transfe
 ## ⚙️ Installation
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/fauzanakbarwijaya/DelisCinema.git DelisCinema
+    https://github.com/nathaniellemuel/EquiTrustFinance.git
     ```
 2.  **Run the Application**
     Build and run the project from your IDE.
