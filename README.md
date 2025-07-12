@@ -1,19 +1,36 @@
-# 🎈 Blank app template
+# 💰 EquiTrust Finance banking system
 
-A simple Streamlit app template for you to modify!
+A website for banking system. This program provides deposit, withdrawal, transfer, account statement (transaction history), and account creation features, along with an AI Assistant to help users when they face any difficulties.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+***
 
-### How to run it on your own machine
+## 🛠️ Technologies Used
+- **Language:** Python
+- **Database:** Excel
+- **Connectivity:** Pandas
+- **IDE:** Visual Studio Code
 
-1. Install the requirements
+***
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+## ⚙️ Installation
+1.  **Clone the repository**
+    ```bash
+    git clone https://github.com/fauzanakbarwijaya/DelisCinema.git DelisCinema
+    ```
+2.  **Run the Application**
+    Build and run the project from your IDE.
 
-2. Run the app
+***
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+
+***
+
+## 🤝 Contributing
+Contributions are always welcome! Please fork the repository and submit a pull request with your changes.
+
+## 📄 License
+This project is licensed under the [MIT License](LICENSE).
+
+## 📞 Contact
+For any questions or support, please reach out:
+-   **Nathan:** `nathanlemuel14@gmail.com`
